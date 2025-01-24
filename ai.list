@@ -12,7 +12,6 @@ DOMAIN,bard.google.com
 DOMAIN,ai.google.dev
 DOMAIN,gemini.google.com
 DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,statsigapi.net
@@ -30,6 +29,11 @@ DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,sentry.io
-
 DOMAIN-SUFFIX,yhgfb-static.com
+DOMAIN-SUFFIX,qodo.ai
+DOMAIN-SUFFIX,trea.ai
+DOMAIN-SUFFIX,zed.dev
+DOMAIN-SUFFIX,codeium.ai
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,server.codeium.com
+DOMAIN-SUFFIX,cursor.sh
